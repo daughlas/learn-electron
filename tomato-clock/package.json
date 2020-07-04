@@ -1,0 +1,20 @@
+{
+  "name": "project-tomato-clock",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lvjiawen <daughlas@gmail.com> (https://github.com/daughlas)",
+  "license": "MIT",
+  "dependencies": {
+    "progressbar.js": "^1.1.0",
+    "timer.js": "^1.0.4"
+  },
+  "devDependencies": {
+    "electron": "^9.0.4"
+  }
+}
